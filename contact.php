@@ -19,7 +19,7 @@
         <ul class="lavaLampWithImage" id="lava_menu">
           <li><a href="index.html">home</a></li>
           <li><a href="about.html">about me</a></li>
-          <li><a href="blogs.html">my blogs</a></li>
+          <li><a href="blogs.html">video</a></li>
           <li><a href="blog.html">blog</a></li>
           <li class="current"><a href="contact.php">contact</a></li>
         </ul>
@@ -39,7 +39,7 @@
       </div>
       <div id="content">
         <h1>Contact</h1>
-        <?php
+        <？php
           // Set-up these 3 parameters
           // 1. Enter the email address you would like the enquiry sent to
           // 2. Enter the subject of the email you will receive, when someone contacts you
